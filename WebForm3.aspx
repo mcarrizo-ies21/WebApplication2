@@ -16,7 +16,9 @@
             <br />
             <br />
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/WebForm2.aspx">REGRESAR</asp:HyperLink>
-        </div>
+            <br />
+            <br />
+            HOLA MIGUEL</div>
     </form>
 </body>
 </html>

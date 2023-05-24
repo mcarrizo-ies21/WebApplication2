@@ -19,6 +19,7 @@ namespace WebApplication2
 
         private int codigo;
         private string nombre;
+        private int stock;
 
         public int Codigo
         {
